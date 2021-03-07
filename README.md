@@ -33,9 +33,9 @@ Data Science Projects
 
 
 # [Project 5: Coronavirus Tweet analysis prediction using SimpleRNN](https://github.com/veeresh361/Project-5-Coronavirus-Tweet-analysis.git) 
-* Downloaded the data.Cleaned  the data and scaled  the data by applying Minmax scaler
-* Built a LSTM Model and trained the model on the train set
-* Predicted the sales for the upcoming year
+* Downloaded the data.Cleaned  the data using nltk library
+* Built a SimpleRNN Model and trained the model on the train set
+* Predicted the tweets for the test set
 
 ![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/RNN.jpeg)
 
