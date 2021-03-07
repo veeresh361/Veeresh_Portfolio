@@ -4,6 +4,8 @@ Data Science Projects
 * Built a Nueral Network Model that Classifier different types of Wine Brands.
 * Tuned The model using various Hyperparameter Tuning method to get the best accuracy
 
+![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/Wine_image.jpg)
+
 
 # [Project 2: Text Generation Using  LSTM Nueral Networks](https://github.com/veeresh361/Project-2-Text-Genatation.git) 
 * Built a  LSTM model that Generates Text output if we give input text data
