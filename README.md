@@ -12,3 +12,15 @@ Data Science Projects
 * Built the model and trained the model in Google Colab
 
 ![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/Text_Generation.jfif)
+
+
+# [Project 3: Fake News Classification Using Nueral Networks](https://github.com/veeresh361/Wine-Classification.git) 
+* Downloaded the data.Cleaned  the data and applied Count Vectorizer method
+* Built a ANN Model to classify the text data.
+* Tuned The model using various Hyperparameter Tuning method to get the best accuracy
+
+![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/image.png)
+
+
+
+
