@@ -23,4 +23,13 @@ Data Science Projects
 
 
 
+# [Project 4: Champagne sales Prediction using LSTM](https://github.com/veeresh361/Wine-Classification.git) 
+* Downloaded the data.Cleaned  the data and scaled  the data by applying Minmax scaler
+* Built a LSTM Model and trained the model on the train set
+* Predicted the sales for the upcoming year
+
+![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/Sales_image.png)
+
+
+
 
