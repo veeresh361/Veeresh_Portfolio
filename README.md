@@ -10,3 +10,5 @@ Data Science Projects
 # [Project 2: Text Generation Using  LSTM Nueral Networks](https://github.com/veeresh361/Project-2-Text-Genatation.git) 
 * Built a  LSTM model that Generates Text output if we give input text data
 * Built the model and trained the model in Google Colab
+
+![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/Text_Generation.jfif)
