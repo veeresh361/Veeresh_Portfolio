@@ -14,7 +14,7 @@ Data Science Projects
 ![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/Text_Generation.jfif)
 
 
-# [Project 3: Fake News Classification Using Nueral Networks](https://github.com/veeresh361/Wine-Classification.git) 
+# [Project 3: Fake News Classification Using Nueral Networks](https://github.com/veeresh361/Project-3-Fake-News-Classification.git) 
 * Downloaded the data.Cleaned  the data and applied Count Vectorizer method
 * Built a ANN Model to classify the text data.
 * Tuned The model using various Hyperparameter Tuning method to get the best accuracy
@@ -23,12 +23,26 @@ Data Science Projects
 
 
 
-# [Project 4: Champagne sales Prediction using LSTM](https://github.com/veeresh361/Wine-Classification.git) 
+# [Project 4: Champagne sales Prediction using LSTM](https://github.com/veeresh361/Project-4-Sales-Prediction.git) 
 * Downloaded the data.Cleaned  the data and scaled  the data by applying Minmax scaler
 * Built a LSTM Model and trained the model on the train set
 * Predicted the sales for the upcoming year
 
 ![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/Sales_image.png)
+
+
+
+# [Project 5: Coronavirus Tweet analysis prediction using SimpleRNN](https://github.com/veeresh361/Project-5-Coronavirus-Tweet-analysis.git) 
+* Downloaded the data.Cleaned  the data and scaled  the data by applying Minmax scaler
+* Built a LSTM Model and trained the model on the train set
+* Predicted the sales for the upcoming year
+
+![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/RNN.jpeg)
+
+
+
+
+
 
 
 
