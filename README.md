@@ -51,6 +51,17 @@ Data Science Projects
 
 
 
+# [Project 7: Clustering of Different Brands of Cigerate images](https://github.com/veeresh361/Project-7-Clustering.git) 
+* Downloaded the Images.Cleaned  the data 
+* Stored the images in four saperate folders
+* Applied Kmeans Clustering to the data
+* Clusters the images into 4 different clusters
+* Visualized the images using matplotlib
+
+![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/Image_clusters.jfif)
+
+
+
 
 
 
