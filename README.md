@@ -37,7 +37,7 @@ Data Science Projects
 * Built a SimpleRNN Model and trained the model on the train set
 * Predicted the tweets for the test set
 
-![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/RNN.jpeg)
+![](![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/RNN.jpeg)
 
 
 
@@ -47,7 +47,7 @@ Data Science Projects
 * Used KNN Model for prediction the conversion rates
 
 
-![]((https://github.com/veeresh361/Veeresh_Portfolio/blob/main/RNN.jpeg))
+![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/knn_image.jpg)
 
 
 
