@@ -47,7 +47,7 @@ Data Science Projects
 * Used KNN Model for prediction the conversion rates
 
 
-![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/knn_image.jpg)
+![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/k_NN.png)
 
 
 
