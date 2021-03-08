@@ -41,6 +41,17 @@ Data Science Projects
 
 
 
+# [Project 6: Bank Conversion Rates Analysis and Prediction](https://github.com/veeresh361/Project-6-Bank-Conversion-Prediction.git) 
+* Downloaded the data.Cleaned  the data 
+* Analysed and Visualized the data using Matplotlib
+* Used KNN Model for prediction the conversion rates
+
+
+![]((https://github.com/veeresh361/Veeresh_Portfolio/blob/main/RNN.jpeg))
+
+
+
+
 
 
 
