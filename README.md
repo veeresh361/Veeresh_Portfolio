@@ -63,6 +63,17 @@ Data Science Projects
 
 
 
+# [Project 8: Emotion Detection using NLP](https://github.com/veeresh361/Emotion-Detection.git) 
+* Downloaded the Images.Cleaned  the data 
+* Applied CountVectorizer Method and extracted features from the data
+* Built a multiclass ANN Model to predict the output
+
+
+![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/emotion_image.jfif)
+
+
+
+
 
 
 
