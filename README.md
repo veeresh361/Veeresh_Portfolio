@@ -73,6 +73,17 @@ Data Science Projects
 
 
 
+# [Project 9: Pca and Cluster Analysis on Breast Cancer Dataset](https://github.com/veeresh361/PCA-and-Cluster-Analysis.git) 
+* Downloaded the Data.Cleaned  the data 
+* Applied Pca to the Data and Selected suitable no of Pca Components
+* Applied Kmeans Clustering to the data
+* Performed Cluster Purity Scores for Different Values of K
+
+![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/PCA-clusterCluster_image.png)
+
+
+
+
 
 
 
