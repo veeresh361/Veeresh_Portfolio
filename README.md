@@ -83,6 +83,15 @@ Data Science Projects
 
 
 
+# [Project 9: Ai Doctor](https://github.com/veeresh361/Ai-Doctor.git) 
+* Downloaded the Data.Cleaned  the data 
+* Cleaned the data
+* Built a Deep ANN Model that predicts the diseases
+* Tested on the test data and the accuracy was around 98%
+
+![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/Ai%20Doctor.jpg)
+
+
 
 
 
