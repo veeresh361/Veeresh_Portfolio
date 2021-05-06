@@ -83,13 +83,23 @@ Data Science Projects
 
 
 
-# [Project 9: Ai Doctor](https://github.com/veeresh361/Ai-Doctor.git) 
-* Downloaded the Data.Cleaned  the data 
+# [Project 10: Ai Doctor](https://github.com/veeresh361/Ai-Doctor.git) 
+* Downloaded the Data. 
 * Cleaned the data
 * Built a Deep ANN Model that predicts the diseases
 * Tested on the test data and the accuracy was around 98%
 
 ![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/Ai%20Doctor.jpg)
+
+
+
+# [Project 11: Finacial Analysis of Apple stock and Forescasting](https://github.com/veeresh361/Financial-Analysis.git) 
+* Downloaded the Data. 
+* Cleaned the data
+* Applied Fibonacci Strategy to the data
+* Forcasted the prices using Holtwinters method
+
+![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/Fabinochi.png)
 
 
 
