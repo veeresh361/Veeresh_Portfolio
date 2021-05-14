@@ -104,6 +104,17 @@ Data Science Projects
 
 
 
+# [Project 12: Machine Translation From English to French](https://github.com/veeresh361/Machine-Translation.git) 
+* Downloaded the Data. 
+* Cleaned the data
+* Used LSTM Model for training the data
+* Converted the english sentences into French
+
+![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/download%20(1).jpg)
+
+
+
+
 
 
 
