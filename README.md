@@ -114,7 +114,13 @@ Data Science Projects
 
 
 
+# [Project 13: Loan Status Prediction usng Machine Learning](https://github.com/veeresh361/Loan-Status-Prediction) 
+* Downloaded the Data. 
+* Cleaned the data
+* Used Various Machine Learning Modes Model  training the data
+* Got an average accuracy of around 98%
 
+![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/loan_image.jpg)
 
 
 
