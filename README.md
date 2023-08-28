@@ -124,6 +124,14 @@ Data Science Projects
 
 
 
+# [Project 14: AnySize Gan](https://github.com/veeresh361/AnySizeGan.git) 
+* Built any size GAN Model from scratch that takes varying image size as input
+* Trained the model on mnist dataset for different sizes.
+
+![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/Wine_image.jpg)
+
+
+
 
 
 
