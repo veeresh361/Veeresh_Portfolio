@@ -128,7 +128,7 @@ Data Science Projects
 * Built any size GAN Model from scratch that takes varying image size as input
 * Trained the model on mnist dataset for different sizes.
 
-![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/Wine_image.jpg)
+![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/5-Figure2-1.png)
 
 
 
