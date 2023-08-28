@@ -137,7 +137,7 @@ Data Science Projects
 * Built a Psp Net from scratch in pytorch.
 * Tuned The model to get the best IOU score for the predicted masks.
 
-![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/Wine_image.jpg)
+![](https://github.com/veeresh361/Veeresh_Portfolio/blob/main/pspnet.jpg)
 
 
 
